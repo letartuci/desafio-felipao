@@ -1,3 +1,4 @@
-console.log("oi Letícia")
-console.log("hello dog")
+let nome = "Leticia"
+console.log(nome)
+
 
